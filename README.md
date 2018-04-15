@@ -1,276 +1,278 @@
 # Bloomon
+### To run the code, execute the file `app.js` on the node console
 
-1 - Scenario 
-DL5b8
+#### Command: `- <./sourcePath> node app.js`
 
-bL
-bL
-bL
-bL
-bL
-aS
-aL
-aL
-aL
+1 - Scenario <br />
+DL5b8<br /><br />
+bL<br />
+bL<br />
+bL<br />
+bL<br />
+bL<br />
+aS<br />
+aL<br />
+aL<br />
+aL<br /><br />
 
-2 - Scenario (full storage)
-DL5b8
-
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
-aL
+2 - Scenario (full storage)<br />
+DL5b8<br /><br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
+aL<br />
 
 3 - Scenario (use the provided text file)
+
